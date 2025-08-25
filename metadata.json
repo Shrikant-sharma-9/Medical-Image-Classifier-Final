@@ -1,0 +1,5 @@
+{
+  "name": "Medical Image Classifier POC",
+  "description": "An application that allows users to upload an X-ray image and receive AI-powered diagnosis probabilities with attention map explanations, powered by Gemini.",
+  "requestFramePermissions": []
+}
